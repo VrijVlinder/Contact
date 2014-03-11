@@ -1,0 +1,12 @@
+#Body{
+background:none transparent!important;
+float:none!important;
+}
+#Content {
+width: 80%!important;
+margin: 0 auto;
+float: none!important;
+}
+#Panel{
+display:none!important;
+}
